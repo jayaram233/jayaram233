@@ -1,0 +1,11 @@
+a=int(input("enter value:"))
+b=int(input("enter value:"))
+if a>b:
+	print("a is greatest number")
+	print("hello! jayaram ")
+ 
+Expect output:
+enter value: 10
+enter value: 8
+a is greatest number
+hello! jayaram
